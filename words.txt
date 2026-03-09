@@ -2103,6 +2103,7 @@ trash
 trawl
 tread
 treat
+trees
 trend
 triad
 trial
